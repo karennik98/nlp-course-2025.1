@@ -7,8 +7,6 @@
 4. Push your completed work before the deadline (for each assignment deadline is up to next lecture)
 5. Never modify other students' folders
 
-#####################################################################################################
-
 # How to Submit Your Homework
 
 Follow these steps to submit your homework assignment via pull request.
