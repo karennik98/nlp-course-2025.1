@@ -3,21 +3,18 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\Srbuhi Pupuyan\Lab3\Coachella-2015-2-DFE.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Srbuhi Pupuyan\Lab3\cleaned_tweets.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Srbuhi Pupuyan\Lab4\bbc-text.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
