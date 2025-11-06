@@ -21,6 +21,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Sona Mansuryan\Task 5\spam.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
