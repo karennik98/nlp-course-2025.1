@@ -28,6 +28,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Sona Mansuryan\Task 7\student_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
