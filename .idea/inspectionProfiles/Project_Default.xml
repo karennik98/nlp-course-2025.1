@@ -1,30 +1,15 @@
 <component name="InspectionProjectProfileManager">
   <profile version="1.0">
     <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
-        <list>
-          <option value="cloudpickle" />
-          <option value="contourpy" />
-          <option value="cycler" />
-          <option value="filelock" />
-          <option value="fonttools" />
-          <option value="fsspec" />
-          <option value="gym" />
-          <option value="Jinja2" />
-          <option value="kiwisolver" />
-          <option value="MarkupSafe" />
-          <option value="matplotlib" />
-          <option value="networkx" />
-          <option value="numpy" />
-          <option value="packaging" />
-          <option value="pillow" />
-          <option value="pyparsing" />
-          <option value="python-dateutil" />
-          <option value="setuptools" />
-          <option value="six" />
-          <option value="torch" />
-        </list>
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="numpy" />
+            <item index="1" class="java.lang.String" itemvalue="seaborn" />
+          </list>
+        </value>
       </option>
     </inspection_tool>
   </profile>
